@@ -6,7 +6,7 @@ https://www.udemy.com/course/flutter-bootcamp-with-dart/
 ## Completed Frontend Courses
 ### 현재 수준: 제일 약한 듯...?
 ## Completed Backend Courses
-### 현재 수준: 기본적인 거 돌아가게는 할 수 있는 듯...?
+### 현재 수준: 기본적인 거(e.g. CRUD) 돌아가게는 할 수 있는 듯...?
 1. 컴맹을 위한 Go 언어 기초프로그래밍 강좌 52/52 > **백엔드 기본 개념을 접함**
 ---
 in progress...
