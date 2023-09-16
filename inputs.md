@@ -12,5 +12,5 @@ https://www.udemy.com/course/flutter-bootcamp-with-dart/
 in progress...
 1. 15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발
 2. 스프링 부트 3 백엔드 개발자 되기 - 자바 편
-3. Go 로 만드는 웹 8/26
+3. Go 로 만드는 웹 11/26
 4. Tucker의 Go 언어 프로그래밍 4/40
