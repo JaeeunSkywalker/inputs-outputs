@@ -16,4 +16,4 @@ in progress...
 2. Tucker의 Go 언어 프로그래밍 4/40
 3. Spring Boot Reference Documentation > ~~444p~~ + 444p > 끝!
 4. https://docs.spring.io/spring-security/reference/index.html > 완독하기
-5. CST > STEP4
+5. CST > STEP5
